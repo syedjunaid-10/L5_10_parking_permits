@@ -1,0 +1,6 @@
+************* Module parking_system
+parking_system.py:114:0: C0304: Final newline missing (missing-final-newline)
+
+------------------------------------------------------------------
+Your code has been rated at 9.85/10 (previous run: 6.32/10, +3.54)
+
